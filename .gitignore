@@ -124,7 +124,7 @@ way.txt
 *.wbproj
 segv_*out
 /scripts/
-/Rover/scripts/
+# /Rover/scripts/
 /AntennaTracker/scripts/
 /ArduCopter/scripts/
 /ArduPlane/scripts/
